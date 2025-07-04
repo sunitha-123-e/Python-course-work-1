@@ -1,1 +1,1 @@
-dfghjkl;
+print("hello world")
